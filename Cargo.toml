@@ -1,0 +1,12 @@
+[package]
+name = "wasm-demo"
+version = "0.1.0"
+authors = ["cheme <emericchevalier.pro@gmail.com>"]
+
+[dependencies]
+itertools = "*"
+serde_json = "*"
+serde_derive = "*"
+serde = "*"
+#webplatform = "*"
+
